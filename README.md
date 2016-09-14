@@ -1,2 +1,2 @@
 # SPOJ
-Some of the problems I worked on when I was in the Army--still being uploaded
+Some of the competitive programming/algo problems I worked on when I was in the Army: more updates coming! SPOJ handle: @naiu http://spoj.com 
